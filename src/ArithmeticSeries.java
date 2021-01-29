@@ -8,6 +8,6 @@ public class ArithmeticSeries {
       }
       System.out.println(k);
       System.out.println();
-      snj bckjcb ckjb
+      snj bckjcb ckjb tangent
     }
 }
