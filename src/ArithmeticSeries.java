@@ -7,5 +7,6 @@ public class ArithmeticSeries {
 
       }
       System.out.println(k);
+      System.out.println();
     }
 }
